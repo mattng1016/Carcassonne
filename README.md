@@ -1,9 +1,9 @@
 # Carcassonne
 
-<img width="484" height="270" alt="Screenshot 2026-10-31 at 7 01 27 PM" src="https://github.com/user-attachments/assets/1d550058-8cf6-46a1-8b6a-993f21d1e37e" />
-
-<img width="577" height="322" alt="Screenshot 2026-10-31 at 7 01 04 PM" src="https://github.com/user-attachments/assets/cf985351-fc25-40ae-9ae6-dd5f3127caa2" />
-
+<p align="center">
+  <img width="49%" alt="Screenshot 2026-10-31 at 7 01 27 PM" src="https://github.com/user-attachments/assets/1d550058-8cf6-46a1-8b6a-993f21d1e37e" />
+  <img width="49%" alt="Screenshot 2026-10-31 at 7 01 04 PM" src="https://github.com/user-attachments/assets/cf985351-fc25-40ae-9ae6-dd5f3127caa2" />
+</p>
 
 A Carcassonne-inspired tile-placement game built with **Godot 4.5** and **GDScript** as a collaborative CMPT course project.
 
